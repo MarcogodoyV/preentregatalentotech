@@ -10,7 +10,7 @@ Este script en Node.js permite interactuar con la [Fake Store API](https://fakes
 ## 🚀 Uso
 
 ```bash
-node script.js <METHOD> <RESOURCE> [title] [price] [category]
+npm start <METHOD> <RESOURCE> [title] [price] [category]
 ```
 
 ### Parámetros
